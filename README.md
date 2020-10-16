@@ -16,7 +16,7 @@ In this project the Naive Bayes Classifier algorithm is implemented as a Python 
 
 For the second part of this Build Week project, there is also a HOW-TO blog entry that describes the algorithm, how to implement it and what it's useful for here:
 
-blogpost-URL
+https://johnjdailey.medium.com/naive-bayes-classifier-built-in-python-with-numpy-9f05ec26e373
 
 The reader should be able to begin implementation of the algorithm based on the information presented.
 
