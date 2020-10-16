@@ -27,7 +27,7 @@ def load_csv(filename):
 
 # Load the UCI wine data
 
-df = load_csv('wine.data') # original - good score
+df = load_csv('wine.data')
 
 # Print the data in exploration
 
