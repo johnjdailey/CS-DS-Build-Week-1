@@ -51,6 +51,7 @@ class NaiveBayesClassifier:
                 'std' : np.std(feature),
                 'mean' : np.mean(feature)
             }
+            
     # Required fit method, to train the model
 
     def fit (self, X, y):
