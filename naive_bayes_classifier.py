@@ -7,7 +7,7 @@
 import numpy as np 
 
 
-# Naive Bayes Classifer Class
+# Naive Bayes Classifier Class
 
 class NaiveBayesClassifier:
 
@@ -104,6 +104,9 @@ class NaiveBayesClassifier:
         -----------
         List of predicted class for each row of data set
         """
+
+        # Maximum a posteriori (MAP)
+        
         MAPs = []
 
         for row in X:
