@@ -35,7 +35,7 @@ class NaiveBayesClassifier:
             separated_classes[class_name].append(feature_values)
         return separated_classes
 
-    # Standard deviation and mean are required for the (Gaussian) distritbution function
+    # Standard deviation and mean are required for the (Gaussian) distribution function
 
     def stat_info(self, X):
         """
