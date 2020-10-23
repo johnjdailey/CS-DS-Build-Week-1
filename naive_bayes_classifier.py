@@ -24,7 +24,7 @@ class NaiveBayesClassifier:
         X- array, list of features
         y- list, target
         Returns:
-        A dictionnary with y as keys and assigned X as values.
+        A dictionary with y as keys and assigned X as values.
         """
         separated_classes = {}
         for i in range(len(X)):
